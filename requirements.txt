@@ -1,0 +1,6 @@
+
+streamlit
+nbformat
+ipython
+tabulate
+colorama
