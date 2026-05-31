@@ -1,6 +1,6 @@
-
 streamlit
 nbformat
 ipython
-tabulate
-colorama
+pandas
+numpy
+matplotlib
